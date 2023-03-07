@@ -23,7 +23,7 @@ ConcolePlaeyr.exe *path* [*type*] [*bs*] [*bsize*] [*size_frame*]
 * Disable forward scrolling on the terminal tab;
 * Disable text output transfer when resizing on the location tab;
 * You may need to change the size of the screen buffer on the location tab;
-* Maybe nothing will help you and the displayed image will flicker or jump, in which case you need to try changing the frame size and cmd properties. Yes, cmd is a very capricious thing. There were cases when the changeable properties were applied only after restarting cmd, but in any case, the first two points are required.
+* Maybe nothing will help you and the displayed image will flicker or jump, in which case you need to try changing the frame size (**size_frame**) and cmd properties. Yes, cmd is a very capricious thing. There were cases when the changeable properties were applied only after restarting cmd, but in any case, the first two points are required.
 
 
 
