@@ -15,9 +15,9 @@ ConcolePlaeyr.exe *path* [*type*] [*bs*] [*bsize*] [*size_frame*]
    1) **d_c** - dynamic conversion, conversion is performed during playback;
    2) **s_c** - static conversion, all frames are converted before playback;
    3) **c_c** - combined conversion, a frame buffer is created, which is replenished in the background stream (default type).
-3. **bs** - a flag that can be applied when using a combined conversion (***c_c***), displays the current number of frames in the buffer in the window header (disabled by default);
-4. **bsize** - a flag that can be applied when using a combined conversion (***c_c***), sets the buffer size in the number of frames, example ***b20*** (by default, the buffer is 100);
-5. **size_frame** - sets the size of the resulting image in characters, example ***100 100*** (default is 128 by 128).
+3. **bs** - a flag that can be applied when using a combined conversion (***c_c***), displays the current number of frames in the buffer in the window header (disabled by default) [optional];
+4. **bsize** - a flag that can be applied when using a combined conversion (***c_c***), sets the buffer size in the number of frames, example ***b20*** (by default, the buffer is 100) [optional];
+5. **size_frame** - sets the size of the resulting image in characters, example ***100 100*** (default is 128 by 128) [optional].
 ---
 ### For correct display in cmd.exe you need to change the properties:
 * Disable forward scrolling on the terminal tab;
