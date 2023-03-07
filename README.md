@@ -2,7 +2,7 @@
 
 ## Small application for playing videos in cmd
 
-
+https://user-images.githubusercontent.com/105949852/223510900-49d529f6-dd3b-4702-80b9-3ae7daf521db.mp4
 
 ### Full video - [YouTube: Bad Apple!! but it's Terminal](https://youtu.be/vduQ-QZL6sQ)
 
