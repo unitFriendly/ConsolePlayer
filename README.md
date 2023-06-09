@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/105949852/223510900-49d529f6-dd3b-4702
 ### Full video - [YouTube: Bad Apple!! but it's Terminal](https://youtu.be/vduQ-QZL6sQ)
 
 ----
-ConcolePlaeyr.exe *path* [*type*] [*bs*] [*bsize*] [*size_frame*] 
+ConsolePlayer.exe *path* [*type*] [*bs*] [*bsize*] [*size_frame*] 
 
 ### Arguments:   
 1. **path** - path to the video;
